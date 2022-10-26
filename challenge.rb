@@ -7,7 +7,7 @@ def decode_char(char)
     '..-' => 'U', '...-' => 'V', '.--' => 'W', '-..-' => 'X', '-.--' => 'Y',
     '--..' => 'Z'
   }
- chars[char]
+  chars[char]
 end
 
 def decode_word(words)
@@ -15,7 +15,6 @@ def decode_word(words)
   words.split(' ').each { |word| new_word += decode_char(word) }
   new_word
 end
-
 
 def decode(message)
   new_sentence = ''
