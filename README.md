@@ -55,9 +55,9 @@ rubocop -a
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/yosefHesham)
+- Twitter: [@twitterhandle](https://twitter.com/Yousef45653478)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/yousef-hesham98)
 
 ## 🤝 Contributing
 
