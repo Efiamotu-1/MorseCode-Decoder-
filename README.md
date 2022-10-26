@@ -1,56 +1,63 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Morse Code Coding Challenge
 
-> Description the project.
+> This is a decryption coding challenge that decrypts a message written in MorseCode to it's English equivalent.
 
 
+To get a local copy up and running follow these simple example steps.
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- Install Ruby [click here >>](https://linuxtut.com/install-ruby-on-ubuntu-20.04-with-rbenv-e419f/)
+- Linter: [Rubocop](https://rubocop.org/)
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
+```
+  Ruby 
+```
 ### Setup
+Clone the repository and change the directory to MorseCode-Decoder
+
+``` 
+  $ git clone git@github.com:Efiamotu-1/MorseCode-Decoder-.git
+  $ cd MorseCode-Decoder-
+```
 
 ### Install
+Install all project dependencies by running the command below
 
-### Usage
+``` 
+  $ git --version
+  $ ruby --version && irb
+```
 
-### Run tests
-
-### Deployment
-
-
-
+### Run the application
+```
+  $ ruby challenge.rb
+```
+### Check linter errors
+rubocop -a
+``` 
+  $ rubocop --color
+```
 ## Authors
 
-👤 **Author1**
+👤 **Habeeb Musa Efiamotu**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Efiamotu](https://github.com/Efiamotu-1)
+- Twitter: [@EFYAMOTU](https://twitter.com/EFYAMOTU)
+- LinkedIn: [musa-habeeb](https://www.linkedin.com/in/musa-habeeb/)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Yousef Hesham**
+
+- GitHub: [@githubhandle](https://github.com/yosefHesham)
+- Twitter: [@twitterhandle](https://twitter.com/Yousef45653478)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/yousef-hesham98)
 
 ## 🤝 Contributing
 
