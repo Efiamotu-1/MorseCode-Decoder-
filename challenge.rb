@@ -12,7 +12,7 @@ end
 
 def decode_word(words)
   new_word = ''
-  words.split(' ').each { |word| new_word += decode_char(word) }
+  words.split.each { |word| new_word += decode_char(word) }
   new_word
 end
 
